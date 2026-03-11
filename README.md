@@ -1,4 +1,4 @@
-**Fine-Grained Topic Categorization of BBC News Articles using Supervised Classification**
+**Fine-Grained Topic Categorization of BBC News Articles using Supervised Classification Model**
 
 **Project Overview**
 This project focuses on automatically classifying BBC news articles into specific categories using supervised machine learning techniques combined with Natural Language Processing (NLP).
